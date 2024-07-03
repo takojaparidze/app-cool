@@ -1,15 +1,14 @@
-### README.md for Enhanced CSV Data Parser
+### README.md for CSV Data Parser
 
-```markdown
-# Enhanced CSV Data Parser
+# CSV Data Parser
 
 ## Overview
 This Ruby script is designed to efficiently parse and transform CSV data, enhancing the usability of large datasets. It features robust error handling, logging, and data integrity checks to ensure the process is reliable and maintainable. The parser is particularly useful in scenarios where data needs to be cleaned or transformed before use in analytical applications.
 
 ## Features
-- **Error Handling**: The script handles errors gracefully, ensuring the application remains robust even when processing corrupted data.
-- **Logging**: Integrated logging provides real-time feedback on the process status and helps in diagnosing issues post-process.
-- **Data Transformation**: Includes data validation and transformation, ensuring that the data conforms to required formats before processing.
+- ### Error Handling: The script handles errors gracefully, ensuring the application remains robust even when processing corrupted data.
+- ### Logging: Integrated logging provides real-time feedback on the process status and helps in diagnosing issues post-process.
+- ### Data Transformation: Includes data validation and transformation, ensuring that the data conforms to required formats before processing.
 
 ## Prerequisites
 - Ruby (Version 2.7 or newer recommended)
